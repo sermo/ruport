@@ -1,3 +1,7 @@
+This is Sermo's fork of Ruport. The only changes are:
+- The rubuy19-compat branch is merged into master
+- The version number is bumped to 1.7.1 with .sermo on the end
+
 = What Ruport Is
 
 Ruby Reports (Ruport) is an extensible reporting system.
